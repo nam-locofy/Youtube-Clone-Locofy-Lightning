@@ -1,0 +1,451 @@
+.all {
+  position: relative;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 16.7px;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.ytFormattedString {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0;
+}
+.live,
+.ytChipCloudChipRenderer {
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.ytChipCloudChipRenderer {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs) var(--padding-xs);
+  background-color: var(--color-gray-200);
+  border-radius: var(--br-5xs);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.live {
+  position: relative;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  font-family: var(--font-roboto);
+  color: var(--color-gray-200);
+  text-align: left;
+  display: inline-block;
+  min-width: 26px;
+}
+.ytChipCloudChipRenderer1,
+.ytFormattedString1 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0;
+}
+.ytChipCloudChipRenderer1 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs) var(--padding-xs);
+  background-color: var(--color-gray-400);
+  border-radius: var(--br-5xs);
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.gaming {
+  position: relative;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  font-family: var(--font-roboto);
+  color: var(--color-gray-200);
+  text-align: left;
+  display: inline-block;
+  min-width: 49.8px;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.ytChipCloudChipRenderer2,
+.ytFormattedString2 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0;
+}
+.ytChipCloudChipRenderer2 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs) var(--padding-xs);
+  background-color: var(--color-gray-400);
+  border-radius: var(--br-5xs);
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.laughter {
+  position: relative;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  font-family: var(--font-roboto);
+  color: var(--color-gray-200);
+  text-align: left;
+  display: inline-block;
+  min-width: 57px;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.ytChipCloudChipRenderer3,
+.ytFormattedString3 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0;
+}
+.ytChipCloudChipRenderer3 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs) var(--padding-xs);
+  background-color: var(--color-gray-400);
+  border-radius: var(--br-5xs);
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.gadgets {
+  position: relative;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  font-family: var(--font-roboto);
+  color: var(--color-gray-200);
+  text-align: left;
+  display: inline-block;
+  min-width: 53.7px;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.ytFormattedString4 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0;
+}
+.tools,
+.ytChipCloudChipRenderer4 {
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.ytChipCloudChipRenderer4 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs) var(--padding-xs);
+  background-color: var(--color-gray-400);
+  border-radius: var(--br-5xs);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.tools {
+  position: relative;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  font-family: var(--font-roboto);
+  color: var(--color-gray-200);
+  text-align: left;
+  display: inline-block;
+  min-width: 35.5px;
+}
+.ytChipCloudChipRenderer5,
+.ytFormattedString5 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0;
+}
+.ytChipCloudChipRenderer5 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs) var(--padding-xs);
+  background-color: var(--color-gray-400);
+  border-radius: var(--br-5xs);
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.quarterbacks {
+  position: relative;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  font-family: var(--font-roboto);
+  color: var(--color-gray-200);
+  text-align: left;
+  display: inline-block;
+  min-width: 86.5px;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.ytChipCloudChipRenderer6,
+.ytFormattedString6 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0;
+}
+.ytChipCloudChipRenderer6 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs) var(--padding-xs);
+  background-color: var(--color-gray-400);
+  border-radius: var(--br-5xs);
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.comedy {
+  position: relative;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  font-family: var(--font-roboto);
+  color: var(--color-gray-200);
+  text-align: left;
+  display: inline-block;
+  min-width: 52.7px;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.ytChipCloudChipRenderer7,
+.ytFormattedString7 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0;
+}
+.ytChipCloudChipRenderer7 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs) var(--padding-xs);
+  background-color: var(--color-gray-400);
+  border-radius: var(--br-5xs);
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.characters {
+  position: relative;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  font-family: var(--font-roboto);
+  color: var(--color-gray-200);
+  text-align: left;
+  display: inline-block;
+  min-width: 70px;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.ytChipCloudChipRenderer8,
+.ytFormattedString8 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0;
+}
+.ytChipCloudChipRenderer8 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs) var(--padding-xs);
+  background-color: var(--color-gray-400);
+  border-radius: var(--br-5xs);
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.backgroundMusic {
+  position: relative;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  font-family: var(--font-roboto);
+  color: var(--color-gray-200);
+  text-align: left;
+  display: inline-block;
+  min-width: 119.2px;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.ytChipCloudChipRenderer9,
+.ytFormattedString9 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0;
+}
+.ytChipCloudChipRenderer9 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs) var(--padding-xs);
+  background-color: var(--color-gray-400);
+  border-radius: var(--br-5xs);
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.driving {
+  position: relative;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  font-family: var(--font-roboto);
+  color: var(--color-gray-200);
+  text-align: left;
+  display: inline-block;
+  min-width: 44.7px;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.ytFormattedString10 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0;
+}
+.gameShows,
+.ytChipCloudChipRenderer10 {
+  display: flex;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.ytChipCloudChipRenderer10 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs) var(--padding-xs);
+  background-color: var(--color-gray-400);
+  border-radius: var(--br-5xs);
+  overflow: hidden;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.gameShows {
+  height: 16px;
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 20px;
+  align-items: center;
+}
+.ytFormattedString11 {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0;
+}
+.history,
+.ytChipCloudChipRenderer11 {
+  display: flex;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.ytChipCloudChipRenderer11 {
+  width: 107px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gray-400);
+  overflow: hidden;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) var(--padding-xs);
+  box-sizing: border-box;
+}
+.history {
+  height: 16px;
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 20px;
+  align-items: center;
+}
+.ytFormattedString12 {
+  flex: 1;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-11xs) 0;
+}
+.ironSelector,
+.logicGate,
+.ytChipCloudChipRenderer12,
+.ytFormattedString12 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ytChipCloudChipRenderer12 {
+  width: 69.9px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gray-400);
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  padding: var(--padding-7xs) var(--padding-xs);
+  box-sizing: border-box;
+  debug_commit: 1cbd860;
+}
+.ironSelector,
+.logicGate {
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+  font-family: var(--font-roboto);
+}
+.ironSelector {
+  align-self: stretch;
+  overflow-x: auto;
+  flex-direction: row;
+  padding: var(--padding-xs) 12.400000000000093px var(--padding-xs)
+    var(--padding-5xl);
+  gap: 11.99999999999998px;
+}
+.logicGate {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-9xl);
+  max-width: calc(100% - 240px);
+}
+@media screen and (max-width: 755px) {
+  .logicGate {
+    max-width: 100%;
+  }
+}

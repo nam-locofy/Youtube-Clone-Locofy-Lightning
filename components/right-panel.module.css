@@ -1,0 +1,24 @@
+.rightPanel {
+  width: 402px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  min-width: 402px;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
+@media screen and (max-width: 1200px) {
+  .rightPanel {
+    flex: 1;
+  }
+}
+@media screen and (max-width: 750px) {
+  .rightPanel {
+    min-width: 100%;
+  }
+}

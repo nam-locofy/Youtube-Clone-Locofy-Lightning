@@ -1,0 +1,84 @@
+.ytdThumbnailIcon {
+  align-self: stretch;
+  height: 165.4px;
+  position: relative;
+  border-radius: var(--br-xs);
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.zMnvfkkjr08efltsqqm53qn7x3gyIcon {
+  height: 36px;
+  width: 36px;
+  position: relative;
+  border-radius: var(--br-lg);
+  object-fit: cover;
+}
+.coolestNewGadgets {
+  align-self: stretch;
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+}
+.hoursAgo,
+.techow,
+.views {
+  position: relative;
+  line-height: 18px;
+  display: inline-block;
+  min-width: 47px;
+}
+.hoursAgo,
+.views {
+  min-width: 54px;
+}
+.hoursAgo {
+  min-width: 77px;
+}
+.divmetadata,
+.divmetadataLine {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divmetadataLine {
+  flex-direction: row;
+  padding: var(--padding-11xs) var(--padding-15xl-5) var(--padding-11xs) 0;
+  gap: var(--gap-9xs);
+}
+.divmetadata {
+  flex-direction: column;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray);
+}
+.divmeta {
+  flex: 1;
+  flex-direction: column;
+  padding: 0 var(--padding-5xl) 0 0;
+  gap: var(--gap-7xs);
+}
+.divmeta,
+.ytdCard,
+.ytdDescription {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ytdDescription {
+  align-self: stretch;
+  flex-direction: row;
+  padding: var(--padding-xs) 0 0;
+  gap: var(--gap-xs);
+}
+.ytdCard {
+  flex: 1;
+  flex-direction: column;
+  min-width: 222px;
+  max-width: 241px;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+  font-family: var(--font-roboto);
+}

@@ -1,0 +1,185 @@
+.hqdefaultjpgIcon {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.div {
+  margin-top: -1px;
+  position: relative;
+  font-size: var(--font-size-xs);
+  letter-spacing: 0.35px;
+  line-height: 14px;
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 32.4px;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.minutes19Seconds,
+.ytdThumbnailOverlayTimeSta {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.minutes19Seconds {
+  height: 12px;
+  overflow: hidden;
+}
+.ytdThumbnailOverlayTimeSta {
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gray-300);
+  padding: var(--padding-10xs) var(--padding-9xs);
+  z-index: 1;
+}
+.athumbnail,
+.figmaDesignTo {
+  position: relative;
+  display: flex;
+}
+.athumbnail {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-9xs);
+  background-color: transparent;
+  height: 94px;
+  width: 168px;
+  border-radius: var(--br-5xs);
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-end;
+  box-sizing: border-box;
+}
+.figmaDesignTo {
+  height: 36px;
+  flex: 1;
+  line-height: 20px;
+  font-weight: 500;
+  align-items: center;
+}
+.figmaDesignToLiveDashboard {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) var(--padding-7xs) var(--padding-11xs) 0;
+}
+.locofy {
+  flex: 1;
+  position: relative;
+  line-height: 14px;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.ytFormattedString {
+  width: 202px;
+  flex-shrink: 0;
+  padding: var(--padding-11xs) 0;
+  box-sizing: border-box;
+}
+.divbylineContainer,
+.divcontainer,
+.ytFormattedString {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divcontainer {
+  margin-left: -0.1000000000003638px;
+  flex: 1;
+}
+.divbylineContainer {
+  align-self: stretch;
+}
+.kViews {
+  position: relative;
+  line-height: 14px;
+}
+.divmetadataLine {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0;
+}
+.divmetadata {
+  flex: 1;
+  flex-direction: column;
+}
+.a,
+.div3,
+.divmetadata {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div3 {
+  align-self: stretch;
+  flex-direction: row;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray);
+}
+.a {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-9xs);
+}
+.div2 {
+  flex: 1;
+  padding: 0 var(--padding-5xl) 0 0;
+}
+.div1,
+.div2,
+.divdismissible,
+.ytdCompactVideoRenderer {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div1 {
+  flex: 1;
+  padding: 0 0 var(--padding-sm);
+  box-sizing: border-box;
+  min-width: 147px;
+}
+.divdismissible,
+.ytdCompactVideoRenderer {
+  max-width: 100%;
+}
+.divdismissible {
+  flex: 1;
+  gap: var(--gap-5xs);
+}
+.ytdCompactVideoRenderer {
+  align-self: stretch;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+  font-family: var(--font-roboto);
+}
+@media screen and (max-width: 450px) {
+  .divdismissible {
+    flex-wrap: wrap;
+  }
+}
