@@ -1,5 +1,5 @@
 
-  # Create a Youtube clone with Locofy.ai and Figma (Community) - 7
+  # Create a Youtube clone with Locofy.ai and Figma (Community)
 
   Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
 
