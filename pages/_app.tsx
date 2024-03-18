@@ -8,8 +8,14 @@ function MyApp({ Component, pageProps }: AppProps) {
     <Fragment>
       <Head>
         <title>
-          Create a Youtube clone with Locofy.ai and Figma (Community) - 7
+          Create a Youtube clone with Locofy.ai
         </title>
+        <link
+          rel="icon"
+          href="/ytb.png"
+          type="image/png"
+          sizes="32x32"
+        />
         <meta
           name="viewport"
           content="minimum-scale=1, initial-scale=1, width=device-width"
